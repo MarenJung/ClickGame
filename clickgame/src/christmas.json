@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Rudolph",
+        "image": "https://www.bochcenter.org/~/media/2017-shows/rudolphbanner1200x675v2.jpg?mw=1200&mh=845"
+    },
+    {
+        "id": 2,
+        "name": "Hermey",
+        "image": "https://i.ytimg.com/vi/U3waNAcdpuw/maxresdefault.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Frosty",
+        "image": "https://i.ytimg.com/vi/PIpXwY6FV3k/maxresdefault.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Buddy",
+        "image": "https://img.huffingtonpost.com/asset/5659f2f01b0000810029eb0b.jpeg?cache=ie5jqtljnk&ops=crop_0_3_1703_1038,scalefit_720_noupscale"
+    },
+    {
+        "id": 5,
+        "name": "Santa",
+        "image": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX12364914.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Kevin",
+        "image": "https://4.bp.blogspot.com/-TvUKNWxTWig/WFylVtsSE5I/AAAAAAAACEM/a2zsUcf_N2EGd2DwOTuDNLY1dXCI1No4QCLcB/s1600/7f_5topcharacterschristmas00.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Grinch",
+        "image": "https://i.pinimg.com/236x/a7/83/5a/a7835a204dc1eb91527b9681c320d9cd--christmas-movie-characters-christmas-movies.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Clark",
+        "image": "https://geigergirl96.files.wordpress.com/2014/12/th35q2ksdr.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Scrooge",
+        "image": "https://www.boxofficemojo.com/image2/christmascarol09_041-ACC-2009_Sep04_1281FF.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Nutcracker",
+        "image": "https://i.ytimg.com/vi/ZM-D3jnhmbQ/hqdefault.jpg"
+    },
+    {
+        "id": 11,
+        "name": "White Christmas",
+        "image": "https://image-ticketfly.imgix.net/00/02/41/12/10-og.jpg?w=500&h=334&fit=crop&crop=top"
+    },
+    {
+        "id": 12,
+        "name": "Charlie Brown",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-PnyUt-kChY9-GGXCUIgNVxubB8tRuNuRr3WBNLfaSa9pNS6"
+    }
+]
